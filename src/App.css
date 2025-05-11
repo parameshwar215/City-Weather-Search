@@ -1,0 +1,63 @@
+/* styles.css
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #83a4d4, #b6fbff);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.app-container {
+  text-align: center;
+  background: #ffffffcc;
+  padding: 2rem;
+  border-radius: 20px;
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+}
+
+input[type="text"] {
+  padding: 0.5rem 1rem;
+  border: 2px solid #008cba;
+  border-radius: 8px;
+  font-size: 1rem;
+  width: 70%;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  background-color: #008cba;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+}
+
+button:hover {
+  background-color: #005f73;
+}
+
+.weather-card {
+  margin-top: 1.5rem;
+  padding: 1rem;
+  border-radius: 16px;
+  background-color: #f0f8ff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.weather-card h2 {
+  margin: 0.5rem 0;
+}
+
+.weather-card img {
+  width: 64px;
+}
+
+.weather-card p {
+  margin: 0.2rem 0;
+  font-size: 0.95rem;
+} */
